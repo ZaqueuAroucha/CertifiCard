@@ -21,6 +21,10 @@ body {
     font-size: 20px;
     text-align: center;
   }
+
+  h2 {
+    font-size: 1.2em;
+  }
   
   header {
     /*background-image: url('https://cdn.cinepop.com.br/2021/02/pokemon-list.jpg'); */
